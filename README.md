@@ -1,4 +1,4 @@
-# search-icons
+# Fontawesome Search icon functionality
 
 For testing purposes
 
